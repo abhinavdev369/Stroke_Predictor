@@ -9,7 +9,7 @@ The Modular code for training is done seperately and can be scaled whenever nece
 The dataset used is stroke_data1.csv
 
 Contributing: 
-Contributions are Welcome. To contribute:\n
+Contributions are Welcome. To contribute:
 1.Fork the repository.
 2.Create a branch
 3.Commit changes
